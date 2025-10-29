@@ -22,7 +22,7 @@ struct SplashScreen: View {
             .ignoresSafeArea()
             
             VStack(spacing: 16) {
-               
+                
                 Image("boo")
                     .resizable()
                     .scaledToFit()
